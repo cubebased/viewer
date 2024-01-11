@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b8f227c9df435a354786cfdb2cb24a2e",
-"assets/AssetManifest.bin.json": "ef1ae555748ae8be3478066a7aef2017",
-"assets/AssetManifest.json": "80264b963461afbde8363222482c30a7",
+const RESOURCES = {"assets/AssetManifest.bin": "5f8e9e48208f0a5cec57ca32fdc303cc",
+"assets/AssetManifest.bin.json": "8b1b57dfd5d731253e5753559c77d317",
+"assets/AssetManifest.json": "a4da3dbef6da8f14954aeb56c0b1ec77",
 "assets/assets/404animation.json": "63fa162c44be24d619ee08e1321b092e",
 "assets/assets/background.json": "a09200314986fea6b96a134a2df0a05a",
 "assets/assets/cat.json": "46d5687a8ac9f7846c7f913392a2e08a",
@@ -47,6 +47,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "b8f227c9df435a354786cfdb2cb24a2e
 "assets/assets/images/noprofilpicture.png": "69bd8ab9ef31bf1d704d9a52c1e68f9f",
 "assets/assets/images/profiletest.gif": "23cfc9e8af9284557081663344e76793",
 "assets/assets/images/profiletest2.gif": "a45ed49be8ea90694c6534359f627d77",
+"assets/assets/images/ressourcebackground.png": "3f332ebbfac98b06e3342f218021b6f5",
+"assets/assets/images/walletbackground.png": "869fcdda3176fd2ef44748d56a6f53d1",
 "assets/assets/mixer.json": "0e4b9f8a79d53ffb8f395e1dfad262c0",
 "assets/assets/net.json": "43baf525d69a51960c11202c437b40e0",
 "assets/assets/ok.json": "3163b8c93069117645f9433246fd81d5",
@@ -71,7 +73,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b8f227c9df435a354786cfdb2cb24a2e
 "assets/assets/walletsymbol.json": "8b9eab3b1c89d7aa0e6310986c65a1c2",
 "assets/assets/world.json": "eb7d9dc38bb2376872f3c5c55d7e0bbf",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "3988496381cd4c6f300cfa134869d210",
+"assets/fonts/MaterialIcons-Regular.otf": "1abf8499d1fa6b272cb42e26c43bf01b",
 "assets/NOTICES": "3e6e28cf0259ceb45214924c1208c99c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "4707f3b30abce8ef54ada8ee421e209e",
 "assets/packages/easy_stepper/assets/loading_black.json": "d412b17ec906f03090996d68abab4eca",
@@ -93,9 +95,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b8f227c9df435a354786cfdb2cb24a2e
 "icons/Icon-512.png": "3dcfba88810cb70ab33d5ba327429ae7",
 "icons/Icon-maskable-192.png": "72c13165920c2b10b2c0ffe40799c008",
 "icons/Icon-maskable-512.png": "3dcfba88810cb70ab33d5ba327429ae7",
-"index.html": "696b99730e35d7ef0d681bfe11929bda",
-"/": "696b99730e35d7ef0d681bfe11929bda",
-"main.dart.js": "442fc227c7113813c3645d4fb8f00e15",
+"index.html": "d3fe183bd8191d4a7018d44c0bc4ff1e",
+"/": "d3fe183bd8191d4a7018d44c0bc4ff1e",
+"main.dart.js": "8fd2afca61c0ee6619a86d3de280fdba",
 "manifest.json": "ec0ee6447af63df5b4c51abafb826daa",
 "version.json": "17b37391a2fa84cfc4d7e9e1362c61d8"};
 // The application shell files that are downloaded before a service worker can
